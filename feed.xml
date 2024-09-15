@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jameslist_feed version="3.5">
+  <feed_information>
+    <reference>Gregs Real Estate</reference>
+    <title>Gregs Real Estate</title>
+    <description>A feed with listings from Gregs Real Estate</description>
+    <created>2014-04-29 13:21:22</created>
+    <updated>2014-04-30 11:44:52</updated>
+  </feed_information>
+
+  <dealer>
+    <id>1234</id>
+    <name>Gregs Real Estate</name>
+  </dealer>
+
+  <adverts>
+    <advert reference="BOA-43-33" category="real estate">
+      <preowned>yes</preowned>
+      <type>sale</type>
+      <brand/>
+      <model/>
+      <year>2004</year>
+      <price_on_request>NO</price_on_request>
+      <price currency="USD">3900000</price>
+      
+      <location>
+        <country>France</country>
+        <region>Normandy</region>
+        <city>Rouen</city>
+        <zip>123456</zip>
+      </location>
+      
+      <headline>Insert your headline to this listing here</headline>
+      <description>Insert the listing description here</description>
+      
+      <real_estate_type>Villa</real_estate_type>
+      <bedrooms>5</bedrooms>
+      <bathrooms>4</bathrooms>
+      <floors>2</floors>
+      <living_area unit="sqm">2800</living_area>
+      <land_area unit="ha">4</land_area>
+      
+      <amenities>
+        <mountain_view>yes</mountain_view>
+        <game_farms>yes</game_farms>
+        <tennis_court>yes</tennis_court>
+        <ski_property>yes</ski_property>
+        <wine_cellar>yes</wine_cellar>
+        <pool>yes</pool>
+        <helipad>yes</helipad>
+        <dock>yes</dock>
+        <gym>yes</gym>
+        <porter_concierge>yes</porter_concierge>
+        <new_development>no</new_development>
+        <elevator>yes</elevator>
+      </amenities>
+
+      <media>
+        <image>
+          <image_url>insert image URL here</image_url>
+        </image>
+        <image>
+          <image_url>insert image URL here (can be repeated up to 40 times)</image_url>
+        </image>
+        <video>
+          <video_url>insert video URL here</video_url>
+        </video>
+        <virtual_tour_link>insert URL here</virtual_tour_link>
+      </media>
+
+      <contact_person>
+        <name>Dave Smith</name>
+        <title>Mr</title>
+        <email>company.email@gmail.com</email>
+        <phone>+46761234567</phone>
+        <cell>+46761234567</cell>
+        <fax>+46761234567</fax>
+        <address>"Your company address"</address>
+        <reference>ABC123</reference>
+      </contact_person>
+    </advert>
+  </adverts>
+</jameslist_feed>
