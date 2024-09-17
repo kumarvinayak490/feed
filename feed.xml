@@ -57,10 +57,13 @@
 
       <media>
         <image>
-          <image_url>insert image URL here</image_url>
+          <image_url>https://th1-cdn.pgimgs.com/listing/11332647/UPHO.122369025.V800/Banyan-Tree-Residences-Sichon-Sichon-Thailand.jpg</image_url>
         </image>
         <image>
-          <image_url>insert image URL here (can be repeated up to 40 times)</image_url>
+          <image_url>https://th1-cdn.pgimgs.com/listing/11332647/UPHO.122369018.V800/Banyan-Tree-Residences-Sichon-Sichon-Thailand.jpg</image_url>
+        </image>
+        <image>
+          <image_url>https://th1-cdn.pgimgs.com/listing/11332647/UPHO.122369019.V800/Banyan-Tree-Residences-Sichon-Sichon-Thailand.jpg</image_url>
         </image>
         <video>
           <video_url>insert video URL here</video_url>
